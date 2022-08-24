@@ -36,7 +36,7 @@ def jogo(palavra_embaralhada, palavra_desembaralhada, frase_motivacao):
 
 
 def main():
-    palavras = ['python', 'linux', 'windows', 'universidade', 'tecnologia', 'computador']
+    palavras = ['python', 'linux', 'windows', 'universidade', 'tecnologia', 'computador', 'programacao']
     frases_motivacao = ['Vamos, você consegue!', 'Não desista!', 'Mantenha a calma e tente novamente!', 'Eu acredito em você!']
 
     palavra_embaralhada, palavra_desembaralhada = embaralha_palavra(palavras)
