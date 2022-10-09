@@ -1,5 +1,5 @@
 # Jogo - Embaralha Palavra
-Acerte a palavra embaralhada em até 5 tentativas.
+Acerte a palavra embaralhada em até 5 tentativas. Projeto desenvolvido na disciplina de Algoritmos e Programação de Computadores II do curso de Sistemas de Informação (IFC - Campus Araquari | 2022).
 
 ---
 
